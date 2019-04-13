@@ -1,1 +1,3 @@
-# blo-comments
+# blog-comments
+
+support by https://utteranc.es/
